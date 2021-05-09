@@ -1,0 +1,22 @@
+{
+  "name": "@xtech/eslint-config",
+  "version": "1.0.0",
+  "description": "xTECH's ESLint config",
+  "files": [
+    "base.js",
+    "index.js",
+    "react.js"
+  ],
+  "keywords": [
+    "eslint",
+    "config",
+    "eslintconfig",
+    "xtech",
+    "styleguide"
+  ],
+  "author": "xTECH <tech@xtech.guru>",
+  "license": "MIT",
+  "devDependencies": {
+    "@xtech/prettier-config": "^1.0.1"
+  }
+}
